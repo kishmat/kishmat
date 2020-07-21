@@ -1,8 +1,7 @@
 ### Hi there 👋
 myself Kishmat Bhattarai. 
 
-Languages:
-Javascript and Python
+#learing
 
 <!--
 **kishmat/kishmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
