@@ -1,5 +1,5 @@
 ### Hi there 👋
-myself Kishmat Bhattarai. 
+myself stranger
 
 #learning
 
